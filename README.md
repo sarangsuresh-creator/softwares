@@ -32,6 +32,19 @@
 
 [![Download](https://img.shields.io/badge/Download-EAGLE-blue)](https://drive.google.com/file/d/1OSTE9VPw_OaeI9WBVKTBpftSOAmyi__U/view?usp=drive_link)
 
+[![Download](https://img.shields.io/badge/Download-USB_OBLIVION-blue)](https://drive.google.com/drive/folders/1OIdjJcTHSiDZXnDZzjfwRP4dpGUAK_Qy?usp=drive_link)
+
+[![Download](https://img.shields.io/badge/Download-STM32_FLASHER-blue)](https://drive.google.com/drive/folders/1d11NSOv7k4XjpRShLJU-2pBpvyxCvujC?usp=drive_link)
+
+[![Download](https://img.shields.io/badge/Download-CP2102_DRIVER-blue)](https://drive.google.com/drive/folders/1WfU9EOZLHev2HvdFaHsn31bgXB8kuzFD?usp=drive_link)
+
+
+
+
+
+
+
+
 
 
 
