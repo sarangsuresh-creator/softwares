@@ -1,9 +1,7 @@
 # softwares
 
 [![Download](https://img.shields.io/badge/Download-MPLAB_X_IDE-blue)](https://drive.google.com/drive/folders/11P2LgOgxX8RGXA0BdZXh3T23SMepfAdJ?usp=drive_link)
-
 [![Download](https://img.shields.io/badge/Download-WIRESHARK-blue)](https://drive.google.com/file/d/1wKMIBNj6kYsIWDY0b9XgXW3hXjALy-lY/view?usp=drive_link)
-
 [![Download](https://img.shields.io/badge/Download-VSC-blue)](https://drive.google.com/file/d/1O4Wfgys-9tB8UktzE45tFc5e5k4-T4YO/view?usp=drive_link)
 
 [![Download](https://img.shields.io/badge/Download-VNC-blue)](https://drive.google.com/file/d/1sPyEfgUhiwclucXPyP7WYm35yHUIRdjE/view?usp=drive_link)
